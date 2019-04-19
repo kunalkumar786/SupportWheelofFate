@@ -2,5 +2,5 @@ package com.task.supportwheeloffate.retrofit;
 
 class Const {
 
-    public static final String BASE_URL = "https://api.androidhive.info/json/";
+    public static final String BASE_URL = "https:///";
 }
